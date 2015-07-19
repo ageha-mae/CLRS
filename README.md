@@ -4,15 +4,18 @@
 
 ## Table of Contents
 
-I. [SORTING]
-1.[Bubble Sort]
-1.[Selection Sort]
-1.[Insertion Sort]
-1.[Quick Sort]
-1.[Heap Sort]
-1.[Merge Sort]
-1.[Topological Sort]
+[SORTING](#sorting)
+1. [Bubble Sort](#bubblesort)
+1. [Selection Sort](#selectionsort)
+1. [Insertion Sort](#insertionsort)
+1. [Quick Sort](#quicksort)
+1. [Heap Sort](#heapsort)
+1. [Merge Sort](#mergesort)
+1. [Topological Sort](#topologicalsort)
 
-I. [SEARCHING]
-1.[Linear Search]
-1.[Binary Search]
+[SEARCHING](#searching)
+1. [Linear Search](#linearsearch)
+1. [Binary Search](#binarysearch)
+
+ 
+
