@@ -1,33 +1,18 @@
 # CLRS
-All algorithms in CLRS, implemented in C, Java, Python, C++.
 
-SORTING
+*All algorithms in CLRS, implemented in C, Java, Python, C++*
 
-I. Bubble Sort
+## Table of Contents
 
+I. [SORTING]
+1.[Bubble Sort]
+1.[Selection Sort]
+1.[Insertion Sort]
+1.[Quick Sort]
+1.[Heap Sort]
+1.[Merge Sort]
+1.[Topological Sort]
 
-II. Selection Sort
-
-
-III. Insertion Sort
-
-
-IV. Quick Sort
-
-
-V. Heap Sort
-
-
-VI. Merge Sort
-
-
-VII. Topological Sort
-
-
-
-SEARCHING
-
-I. Linear Search
-
-
-II. Binary Search
+I. [SEARCHING]
+1.[Linear Search]
+1.[Binary Search]
