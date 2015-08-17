@@ -9,6 +9,8 @@ This directory does not contain the solutions to the exercises in CLRS. It conta
 Right now, the implementations are only in C and Java. I plan to add Python and C++ versions soon.
 Additions, subtractions, contributions - pull requests are most welcome :)
 
+CLRS Edition : 3rd
+
 
 ## Table of Contents
 
