@@ -6,7 +6,7 @@
 ##About
 This directory does not contain the solutions to the exercises in CLRS. It contains the implementation of any and all algorithms mentioned in the book though, be they from the chapters or from the exercises. The algorithms are organized into categories according to the major computational problems that they solve.
 
-Right now, the implementations are only in C and Java. I plan to add Python and C++ versions soon.
+As of now, the implementations will only be in C and Java. I plan to add Python and C++ versions later.
 Additions, subtractions, contributions - pull requests are most welcome :)
 
 CLRS Edition : 3rd
