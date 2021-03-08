@@ -1,10 +1,10 @@
 # CLRS Algorithms
 
-*All algorithms in CLRS, implemented in C, Java, Python, C++*
+*All algorithms in CLRS, implemented in Python, C, Java, C++*
 
 
 ##About
-This directory contains the implementation of any and all algorithms mentioned in the CLRS book, be they from the chapters or from the exercises. The algorithms are organized into categories according to the major computational problems that they solve. The repository v1 will not contain the solutions to the exercises in CLRS - to add later.
+This directory contains the implementation of all algorithms mentioned in the CLRS book chapters. These algorithms are organized into categories according to the major computational problems that they solve. The repository v1 will not contain the solutions to the exercises in CLRS - to add later.
 
 CLRS Edition : 3rd
 
@@ -12,13 +12,13 @@ CLRS Edition : 3rd
 ## Table of Contents
 
 [SORTING]
-  1. [Bubble Sort](#bubblesort)
-  2. [Selection Sort](#selectionsort)
-  3. [Insertion Sort](#insertionsort)
-  4. [Quick Sort](#quicksort)
-  5. [Heap Sort](#heapsort)
-  6. [Merge Sort](#mergesort)
-  7. [Topological Sort](#topologicalsort)
+  1. [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
+  2. [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
+  3. [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
+  4. [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+  5. [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
+  6. [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+  7. [Topological Sort](https://en.wikipedia.org/wiki/Topological_sorting)
 
 [SEARCHING]
   1. [Linear Search](#linearsearch)
