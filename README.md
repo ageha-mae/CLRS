@@ -4,10 +4,7 @@
 
 
 ##About
-This directory does not contain the solutions to the exercises in CLRS. It contains the implementation of any and all algorithms mentioned in the book though, be they from the chapters or from the exercises. The algorithms are organized into categories according to the major computational problems that they solve.
-
-As of now, the implementations will only be in C and Java. I plan to add Python and C++ versions later.
-Additions, subtractions, contributions - pull requests are most welcome :)
+This directory contains the implementation of any and all algorithms mentioned in the CLRS book, be they from the chapters or from the exercises. The algorithms are organized into categories according to the major computational problems that they solve. The repository v1 will not contain the solutions to the exercises in CLRS - to add later.
 
 CLRS Edition : 3rd
 
